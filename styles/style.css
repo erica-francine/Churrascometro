@@ -1,0 +1,53 @@
+body{
+    background-image: url(../images/churras2.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 30px;
+    margin: 40px;
+
+}
+
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 550px;
+    width: 400px;
+    background-color: #cfefac;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-color: gainsboro;
+    text-align: center;
+    font-size: 18px;
+}
+.container h1, h2{
+    text-align: center;
+    color: #3e6b0a;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+#botao{
+    background-color: #82e016;
+    padding: 15px;
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+    width: 50%;
+    border-color: #79d60e;
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
+#resultado{
+    text-align: center;
+}
