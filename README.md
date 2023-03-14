@@ -1,4 +1,4 @@
-# Churrascometro
+# Churrascômetro
 Site para calcular as quantidades de carne, cerveja e bebidas para um churrasco.
 
 Projeto levando em consideração as seguintes informações:
