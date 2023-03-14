@@ -3,7 +3,7 @@ Site para calcular as quantidades de carne, cerveja e bebidas para um churrasco.
 
 Projeto levando em consideração as seguintes informações:
 
-Carne - 400gr por pessoa, mais de 6horas - 650gr
+Carne - 400gr por pessoa, mais de 6 horas - 650gr
 
 Cerveja - 1200ml por pessoa, mais de 6 horas - 2000ml
 
